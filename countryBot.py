@@ -1,5 +1,4 @@
 # library to handle HTTP requests made to the API
-from tabnanny import check
 import requests
 
 # telegram bot labrary
