@@ -42,21 +42,25 @@ git checkout -b <branch_name>
 <li>You can now interact with the bot using commands.</li>
 </ul>
 
-<h3><strong>Commands:</strong><h3>
+<h3><strong>Commands:</strong></h3>
 <ul>
 
 ```
-/start  - default command - greets with the welcome message
+/start  - greets with the welcome message
 ```
 
 ```
-/hello
+/hello 
 ```
 
+```
+/help - displays list of available commands 
+```
+  
 ```
 /info <country_name> - gets info about the queried country
 ```
-
+  
 </ul>
 <hr>
 <h5>Mentions:</h5>
